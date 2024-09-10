@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, My name is Juan Naranjo, a young Data Analist wannabe 👋
 
 <!--
 **jnaranj21/jnaranj21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
